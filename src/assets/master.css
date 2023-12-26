@@ -1,0 +1,5 @@
+@import url(style.css) all;
+@import url(reset.css) all;
+@import url(fonts.css) all;
+@import url(10percentage.css) all;
+@import url(3percentage.css) only screen and (max-width: 389px);
